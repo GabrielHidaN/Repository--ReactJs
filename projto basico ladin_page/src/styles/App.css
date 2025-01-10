@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+
+  flex-direction: column;
+  align-items: center;
+}
+.nome_principal{
+  color: aliceblue;
+}
+
+.info_job{
+  color: blueviolet;
+}
